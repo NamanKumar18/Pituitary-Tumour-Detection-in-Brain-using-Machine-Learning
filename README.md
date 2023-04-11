@@ -27,12 +27,3 @@
 ### Overall, this code aims to classify brain tumor MRI images using four different classifiers and select the best classifier based on its performance on the testing set.
 
 ---
-The following concludes our project submission for OPERATING SYSTEMS to Ms. Somiya Rani.
----
-
-|Name|Roll No.|
-|-|-|
-|Aayush Kumar Singh|2020UEA6619|
-|Harsh Nagar|2020UEA6588|
-|Dhruv|2020UEA6564|
-|Naman|2020UEA6598|
