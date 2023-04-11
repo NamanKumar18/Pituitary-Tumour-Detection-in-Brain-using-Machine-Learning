@@ -34,5 +34,5 @@
 ### Overall, this code aims to classify brain tumor MRI images using four different classifiers and select the best classifier based on its performance on the testing set.
 
 ---
-                                                                                                                                                     **(Dataset Link)[https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri]
+[Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 ---
