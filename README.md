@@ -23,8 +23,14 @@
 - Plots the training and testing scores of each classifier using a bar chart.
 
 - Returns the best performing classifier based on the testing score.
+|Classifier|Train Score|Test Score|
+|---|---|---|
+|Logistic Regression|1.00|0.96|
+|Support Vector Machine|0.99|0.96|
+|Random Forest|1.00|0.97|
+|K-Nearest Neighbour|0.95|0.94|
 
 ### Overall, this code aims to classify brain tumor MRI images using four different classifiers and select the best classifier based on its performance on the testing set.
 
 ---
-Dataset - https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+                                                                                                                                                     **[Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
