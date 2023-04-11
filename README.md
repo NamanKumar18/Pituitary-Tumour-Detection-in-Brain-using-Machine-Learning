@@ -8,7 +8,7 @@
 
 - Imports required modules for data preprocessing, visualization, and modeling.
 
-- Collects the data from the specified path, resizes each image to (200,200), converts the images into numpy arrays, and labels each array based on the folder name.
+- Collects the data from the specified path, resizes each image to (200,200), converts the images into numpy arrays, and labels each array based on the folder name. [Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 
 - Splits the dataset into training and testing sets using the train_test_split method.
 
@@ -33,6 +33,4 @@
 
 ### Overall, this code aims to classify brain tumor MRI images using four different classifiers and select the best classifier based on its performance on the testing set.
 
----
-[Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 ---
